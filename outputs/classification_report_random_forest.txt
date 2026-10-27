@@ -1,0 +1,10 @@
+Random Forest
+
+                 precision    recall  f1-score   support
+
+No subscription       0.90      0.99      0.94      7985
+   Subscription       0.67      0.22      0.33      1058
+
+       accuracy                           0.90      9043
+      macro avg       0.79      0.60      0.64      9043
+   weighted avg       0.88      0.90      0.87      9043

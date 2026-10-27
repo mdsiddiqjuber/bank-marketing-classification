@@ -1,0 +1,5 @@
+{
+  "best_model_by_f1_then_roc_auc": "Decision Tree",
+  "selection_criterion": "Highest test F1-score; ROC-AUC used as a tie-breaker. Accuracy is not used alone because y is imbalanced.",
+  "excluded_feature": "duration"
+}

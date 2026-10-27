@@ -1,0 +1,50 @@
+{
+  "rows": 45211,
+  "columns_including_target": 17,
+  "duplicate_rows": 0,
+  "missing_cells": 0,
+  "target_counts": {
+    "no": 39922,
+    "yes": 5289
+  },
+  "target_percentages": {
+    "no": 88.30151954170445,
+    "yes": 11.698480458295547
+  },
+  "unknown_category_counts": {
+    "job": 288,
+    "marital": 0,
+    "education": 1857,
+    "default": 0,
+    "housing": 0,
+    "loan": 0,
+    "contact": 13020,
+    "month": 0,
+    "poutcome": 36959,
+    "y": 0
+  },
+  "excluded_features": [
+    "duration"
+  ],
+  "numeric_features_used": [
+    "age",
+    "balance",
+    "day",
+    "campaign",
+    "pdays",
+    "previous"
+  ],
+  "categorical_features_used": [
+    "job",
+    "marital",
+    "education",
+    "default",
+    "housing",
+    "loan",
+    "contact",
+    "month",
+    "poutcome"
+  ],
+  "train_rows": 36168,
+  "test_rows": 9043
+}

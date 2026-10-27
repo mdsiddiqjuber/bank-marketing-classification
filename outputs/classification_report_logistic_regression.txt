@@ -1,0 +1,10 @@
+Logistic Regression
+
+                 precision    recall  f1-score   support
+
+No subscription       0.90      0.99      0.94      7985
+   Subscription       0.66      0.18      0.28      1058
+
+       accuracy                           0.89      9043
+      macro avg       0.78      0.58      0.61      9043
+   weighted avg       0.87      0.89      0.86      9043

@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1-score,ROC-AUC,True Negatives,False Positives,False Negatives,True Positives
+Decision Tree,0.869623,0.418354,0.293006,0.344636,0.679677,7554,431,748,310
+Random Forest,0.895831,0.667630,0.218336,0.329060,0.802739,7870,115,827,231
+K-Nearest Neighbours,0.889085,0.575758,0.197543,0.294159,0.713810,7831,154,849,209
+Logistic Regression,0.893288,0.664311,0.177694,0.280388,0.771833,7890,95,870,188

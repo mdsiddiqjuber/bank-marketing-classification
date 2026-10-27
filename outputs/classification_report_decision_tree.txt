@@ -1,0 +1,10 @@
+Decision Tree
+
+                 precision    recall  f1-score   support
+
+No subscription       0.91      0.95      0.93      7985
+   Subscription       0.42      0.29      0.34      1058
+
+       accuracy                           0.87      9043
+      macro avg       0.66      0.62      0.64      9043
+   weighted avg       0.85      0.87      0.86      9043
